@@ -1,2 +1,2 @@
 # Error404
-hello
+[Check it Out](https://john4e656f.github.io/Error404/)
